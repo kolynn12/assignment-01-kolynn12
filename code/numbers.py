@@ -12,3 +12,13 @@ The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
 
+integers = {'odd': [], 'even': []}
+while True:
+    integer = int(input("Enter an integer: ", ))
+    if integer == 0:
+        break
+    elif integer % 2 == 0:
+        integers['even'].append(integer)
+    else:
+        integers['odd'].append(integer)
+print(integers)

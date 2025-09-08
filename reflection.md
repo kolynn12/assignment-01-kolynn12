@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kaitlyn Mann
+Sudent Email:  komann@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,5 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+What did I learn, what confused me, where did I struggle, where might I need to pratice.
+I learned how to use the python debugger tool, and how to make breakpoints in the code to help with the debugging process. The numbers task also helped me refresh my memory of loops. At first, I struggled to remember which type of loop to use (for or while), and it took me a few tries to get it right. I used a while loop so that the loop would stop when the condition input=0 occurred. I was confused by the tests because I kept failing them, and I really struggled with trying to make my numbers code run. In the end, the part I struggled with was matching the format in the test's expected answers (I started with two lists (an odd_list and an even_list, and then printed them together instead of making a dictionary of lists), and forgot to make the input integers instead of strings, etc.). I need to practice these kinds of detail-oriented tasks because they will help my code be more concise and effective.
